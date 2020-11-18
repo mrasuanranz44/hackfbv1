@@ -9,7 +9,7 @@ ckg install git
 
 git clone https://github.com/mrasuanranz44/hackfbv1
 
-cd hackgbv1
+cd hackfbv1
 
 ls
 
